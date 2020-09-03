@@ -1,0 +1,36 @@
+**Chapter 1**
+Introduction
+
+| VI                                                           | EN                                                           |      |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| Tóm tắt Hiện tại, mạng máy tính đã trở nên **phổ biến**, số lượng thiết bị đa dạng đang tăng lên không ngừng, cũng như khả năng của chúng, phạm vi ứng dụng và dịch vụ dựa trên mạng ngày càng mở rộng, và kỳ vọng của người dùng cũng phát triển nhanh chóng. Đây là bối cảnh mà các tác giả thiết lập bối cảnh cho cuốn sách lập trình mạng này trong chương giới thiệu của nó. | Abstract Currently, computer networking has already become ubiquitous, the number of diverse devices is increasing constantly, as are also their capabilities, the range of applications and network-based services is expanding, and user expectations are rapidly evolving. This is the context in which the authors set the scene for this network programming book in its introductory chapter. |      |      |
+| Những thập kỷ qua đã chứng kiến một sự phát triển chưa từng có trong mạng máy tính. Nếu ban đầu một mạng kết nối một số máy tính trong phòng nghiên cứu và sau đó liên kết các máy tính trong một số khuôn viên trường đại học, thì ngày nay Internet kết nối các thiết bị mạng trên toàn thế giới. Trong thế giới phát triển, truy cập Internet băng thông rộng có dây có sẵn trong hầu hết các gia đình và tòa nhà văn phòng, đồng thời các công nghệ mạng di động và băng thông rộng không dây đa dạng cho phép truy cập mạng mọi lúc mọi nơi, ở cả những nơi riêng tư và công cộng. Mặc dù bị tụt hậu so với các nước đang phát triển hoặc các khu vực nông thôn, kết nối mạng đang trở nên khả dụng dưới các hình thức không dây (mặt đất hoặc vệ tinh) cho dân số ngày càng tăng, ngay cả ở những nơi xa xôi nhất. | The past decades have seen an unprecedented evolution in computer networks. If originally a network has interconnected few computers in a research lab and then has linked computing machines across several university campuses, nowadays the Internet interconnects network devices worldwide. In the developed world, wired broadband Internet access is available in most homes and office buildings and diverse wireless broadband and cellular network technologies enable network access anywhere and anytime, in private and public places alike. Although lagging behind in developing countries or rural areas, network connectivity is becoming available in wireless forms (terrestrial or satellite) to an increasing population, even in the most remote places. |      |      |
+
+
+
+The past decades have seen an unprecedented evolution in computer networks. If originally a network has interconnected few computers in a research lab and then has linked computing machines across several university campuses, nowadays the Internet interconnects network devices worldwide. In the developed world, wired broadband Internet access is available in most homes and office buildings and diverse wireless broadband and cellular network technologies enable network access anywhere and anytime, in private and public places alike. Although lagging behind in developing countries or rural areas, network connectivity is becoming available in wireless forms (terrestrial or satellite) to an increasing population, even in the most remote places.
+
+Due to the wide availability of the Internet access, both the range and popularity
+of communicating network applications has increased dramatically. Applications such as simple Web browsing or file transfer, although still used today, have been shadowed by the increasingly popular rich-media-based applications, ranging from video conferencing to video on demand, IP television, and online gaming.
+
+Services such as electronic mail, online data storage, virtual servers, and work-
+stations, as well as a wide range of utility and entertainment applications, are also growing in popularity among the Internet users.
+
+Furthermore, mobile and hand-held devices are becoming increasingly capable both in terms of computational power and communication capabilities. Smartphones and light portable PCs such as netbooks are highly attractive to all users, including very young ones. As these devices are usually equipped with multiple technology wireless interfaces, they can easily communicate over the Internet, opening the door for a wide range of applications.
+
+This book approaches the very active field of computer networks and network
+application programming. This field is extremely vast from both theoretical and
+practical points of view. The amount of information available to a reader willing to explore this field of computer networks and network programming is overwhelming and any help in filtering or organizing the information is highly useful.
+
+This is the context in which this book proposes a novel practical approach in
+which the reader is introduced gradually to basic and more advanced computer networking concepts. Side-by-side there are theoretical descriptions of these concepts and practical examples and step-by-step discussions.
+
+An extensive and comprehensive set of practical code examples are presented
+with detailed comments and explanations. The reader benefits from a well organized approach to teaching computer network concepts and network programming techniques which is useful for both readers with a more theoretical interest and readers mostly interested in practical aspects.
+
+The authors have a vast research and development experience in the area of wired and wireless networking. They have been involved in various research projects in the area of wired and wireless networks with focus from low power wireless sensor networks to high performance state-of-the-art wireless heterogeneous environments. The authors have almost 200 top international publications, including books, book chapters, and journal and conference papers addressing various aspects of networking starting from low layer protocol design to high layer application development. They have also been involved in application development projects using both wireless and wired network infrastructure for communication.
+
+Noteworthy is that the authors are teaching various courses in the area of computer networks to both undergraduate and postgraduate students. They have designed this book in order to act as a significant reference to network programming modules taught at their university, and also at other third level institutions worldwide.
+
+Advanced Network Programming Principles and Techniques introduce you to
+the most up-to-date network architectures, protocols, and paradigms, as well as network programming techniques. This book discusses basic and advanced principles of computer networking, including architectures, communication protocols, and network programming techniques and models. The code examples are extremely useful for understanding the practical aspects of computer networking and of communication services offered by various operating systems, and for learning how to develop network-based applications.
