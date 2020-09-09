@@ -35,7 +35,7 @@ Tóm tắt Cách mạng đã phát triển đáng kể kể từ khi kiến trú
 
 **2.2.1 Ring Topology**
 
-![image-20200903213537384](/home/quangg/.config/Typora/typora-user-images/image-20200903213537384.png)
+![image-20200903213537384](images/image-20200903213537384.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -46,7 +46,7 @@ Tóm tắt Cách mạng đã phát triển đáng kể kể từ khi kiến trú
 
 **2.2.2 Star Topology**
 
-![image-20200903213620259](/home/quangg/.config/Typora/typora-user-images/image-20200903213620259.png)
+![image-20200903213620259](images/image-20200903213620259.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -57,7 +57,7 @@ Tóm tắt Cách mạng đã phát triển đáng kể kể từ khi kiến trú
 
 **2.2.3 Bus Topology**
 
-![image-20200903214029004](/home/quangg/.config/Typora/typora-user-images/image-20200903214029004.png)
+![image-20200903214029004](images/image-20200903214029004.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -68,7 +68,7 @@ Tóm tắt Cách mạng đã phát triển đáng kể kể từ khi kiến trú
 
 **2.2.4 Tree Topology**
 
-![image-20200903215229723](/home/quangg/.config/Typora/typora-user-images/image-20200903215229723.png)
+![image-20200903215229723](images/image-20200903215229723.png)
 
 
 
@@ -79,7 +79,7 @@ Tóm tắt Cách mạng đã phát triển đáng kể kể từ khi kiến trú
 
 **2.2.5 Mesh Topology**
 
-![image-20200903215408959](/home/quangg/.config/Typora/typora-user-images/image-20200903215408959.png)
+![image-20200903215408959](images/image-20200903215408959.png)
 
 
 
@@ -89,7 +89,7 @@ Tóm tắt Cách mạng đã phát triển đáng kể kể từ khi kiến trú
 
 **2.2.6 Ad-Hoc Topology**
 
-![image-20200903215911508](/home/quangg/.config/Typora/typora-user-images/image-20200903215911508.png)
+![image-20200903215911508](images/image-20200903215911508.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -109,7 +109,7 @@ Cáp đồng trục bao gồm một lõi đồng cứng được bọc trong m�
 
  Lõi thủy tinh là phương tiện truyền sáng chính và nằm ở tâm của sợi cáp quang. Vỏ nhựa giống như một lớp vỏ và được sử dụng để bảo vệ sợi vải. Tấm phủ thủy tinh có chỉ số khúc xạ thấp hơn và được giới thiệu là để giữ ánh sáng bên trong lõi và lớp vỏ nhựa.
 
-![image-20200903220415607](/home/quangg/.config/Typora/typora-user-images/image-20200903220415607.png)
+![image-20200903220415607](images/image-20200903220415607.png)
 
 Mạng truyền thông không dây sử dụng sóng điện từ đã được điều chế để gửi
 tin nhắn giữa các thiết bị được liên kết trực tiếp. Các thiết bị này có thể giao tiếp trực tiếp giữa chúng theo cách phân tán, tạo thành các mạng đặc biệt hoặc dựa vào
@@ -123,19 +123,19 @@ Bộ lặp là một thiết bị mạng có chức năng khuếch đại, đị
 
 Cầu nối là một thiết bị mạng làm giảm lưu lượng trên mạng LAN bằng cách chia nó thành hai đoạn hoặc cho phép giao tiếp giữa hai mạng LAN bằng cách kết nối chúng với nhau. Cầu lọc lưu lượng dữ liệu ở ranh giới mạng và lấy quyết định có cho phép giao thông qua lại hay không. Khi các cầu nối yêu cầu một số thông tin liên quan đến mạng, chúng hoạt động ở mức khung ở lớp mạng liên kết dữ liệu, như minh họa trong Hình 2.9. Một nhiệm vụ rất quan trọng mà các cầu nối thực hiện khi chia mạng thành các phân đoạn là giới hạn lưu lượng cục bộ đến các phân đoạn mạng khác nhau, hỗ trợ khả năng mở rộng mạng tổng thể và tăng hiệu quả truyền thông. Các cầu nối tác vụ không giống nhau thực hiện khi bật giao tiếp giữa các mạng LAN là hỗ trợ trao đổi dữ liệu mặc dù có các định dạng khung khác nhau, kích thước tải trọng, tốc độ dữ liệu, thứ tự bit của địa chỉ, việc sử dụng các bit ưu tiên, sự tồn tại của xác nhận hoặc xác nhận phủ định (ACK / NACK ), v.v. Nguyên tắc của cầu thực hiện giao thông
 
-![image-20200904085530965](/home/quangg/.config/Typora/typora-user-images/image-20200904085530965.png)
+![image-20200904085530965](images/image-20200904085530965.png)
 
-![image-20200904085634073](/home/quangg/.config/Typora/typora-user-images/image-20200904085634073.png)![image-20200904085646554](/home/quangg/.config/Typora/typora-user-images/image-20200904085646554.png)
+![image-20200904085634073](images/image-20200904085634073.png)![image-20200904085646554](images/image-20200904085646554.png)
 
-![image-20200904085857254](/home/quangg/.config/Typora/typora-user-images/image-20200904085857254.png)![image-20200904085912675](/home/quangg/.config/Typora/typora-user-images/image-20200904085912675.png)
+![image-20200904085857254](images/image-20200904085857254.png)![image-20200904085912675](images/image-20200904085912675.png)
 
 lọc và giảm lượng dữ liệu được trao đổi trên hai phân đoạn mạng được thể hiện trong Hình 2.10.
 
 Bộ định tuyến là một thiết bị mạng kết nối giữa các mạng khác nhau và chuyển tiếp các gói từ mạng này sang mạng khác theo địa chỉ đích của chúng. Các bộ định tuyến giao tiếp với nhau và tham gia vào việc thu thập thông tin mạng mà chúng lưu trữ trong các bảng chuyển tiếp. Dựa trên thông tin này, các bộ định tuyến chạy các thuật toán định tuyến để xác định đường dẫn tốt nhất giữa hai máy chủ bất kỳ và chuyển tiếp các gói dữ liệu trên các đường dẫn đó. Các bộ định tuyến đang hoạt động ở lớp mạng như trong Hình 2.11 và được triển khai như minh họa trong Hình 2.12.
 
-![image-20200904085950225](/home/quangg/.config/Typora/typora-user-images/image-20200904085950225.png)
+![image-20200904085950225](images/image-20200904085950225.png)
 
-![image-20200904090014777](/home/quangg/.config/Typora/typora-user-images/image-20200904090014777.png)
+![image-20200904090014777](images/image-20200904090014777.png)
 
 Cổng là một thiết bị mạng mở rộng chức năng của bộ định tuyến để bao gồm lớp ứng dụng như được minh họa trong Hình 2.13. Các sửa đổi của gói dữ liệu có thể bao gồm lọc hoặc chặn một số loại lưu lượng nhất định, thay đổi giá trị trong trường tiêu đề và / hoặc đoạn giới thiệu, điều chỉnh tốc độ dữ liệu, sửa đổi kích thước gói, áp dụng bảo mật, v.v. Một ví dụ về triển khai cổng được trình bày trong Hình 2.14.
 
@@ -145,14 +145,14 @@ Cổng là một thiết bị mạng mở rộng chức năng của bộ định
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Networks differ in many aspects, not only in their topology, from communication technology to range. In this context, there are many criteria which can be used to classify the networks.Based on their *transmission technology*, the networks can be classified as broad-cast or point-to-point networks.![image-20200904090645204](/home/quangg/.config/Typora/typora-user-images/image-20200904090645204.png) | Các mạng khác nhau ở nhiều khía cạnh, không chỉ về cấu trúc liên kết của chúng, từ công nghệ truyền thông đến phạm vi. Trong bối cảnh này, có nhiều tiêu chí có thể được sử dụng để phân loại mạng. Dựa trên * công nghệ truyền dẫn * của chúng, các mạng có thể được phân loại là mạng truyền rộng hoặc mạng điểm-điểm.![image-20200904090645204](/home/quangg/.config/Typora/typora-user-images/image-20200904090645204.png) |
+| Networks differ in many aspects, not only in their topology, from communication technology to range. In this context, there are many criteria which can be used to classify the networks.Based on their *transmission technology*, the networks can be classified as broad-cast or point-to-point networks.![image-20200904090645204](images/image-20200904090645204.png) | Các mạng khác nhau ở nhiều khía cạnh, không chỉ về cấu trúc liên kết của chúng, từ công nghệ truyền thông đến phạm vi. Trong bối cảnh này, có nhiều tiêu chí có thể được sử dụng để phân loại mạng. Dựa trên * công nghệ truyền dẫn * của chúng, các mạng có thể được phân loại là mạng truyền rộng hoặc mạng điểm-điểm.![image-20200904090645204](images/image-20200904090645204.png) |
 | Based on their *transmission technology*, the networks can be classified as broad-cast or point-to-point networks. | Dựa trên * công nghệ truyền * của chúng, các mạng có thể được phân loại là mạng truyền rộng hoặc mạng điểm-điểm. |
 | In a broadcast network, all nodes share the same communication medium. A mes-sage sent by a node is heard by all other nodes connected to the network. This con-stitutes a major advantage of the broadcast networks as it allows the possibility to send the same message to all receivers attached to the network in the most efficient manner. A well known example of a broadcast network is the television network as presented in Fig. [2.15](#page27). The same content (TV channels) is delivered to all devices attached to the network, a mechanism suitable for distribution of highly popular non-interactive services. | Trong một mạng quảng bá, tất cả các nút chia sẻ cùng một phương tiện truyền thông. Một mes-sage được gửi bởi một nút sẽ được nghe bởi tất cả các nút khác được kết nối với mạng. Điều này khẳng định một lợi thế lớn của mạng quảng bá vì nó cho phép khả năng gửi cùng một thông điệp đến tất cả các máy thu gắn với mạng theo cách hiệu quả nhất. Một ví dụ nổi tiếng về mạng quảng bá là mạng truyền hình như được trình bày trong Hình. [2.15] (# trang27). Cùng một nội dung (các kênh truyền hình) được phân phối đến tất cả các thiết bị gắn vào mạng, một cơ chế phù hợp để phân phối các dịch vụ không tương tác rất phổ biến. |
 | As opposed to broadcast networks, point-to-point networks use many connec-tions to link individual pairs of devices. A message travels from the source to its destination by traversing multiple interconnected devices. All these intermediate devices and the links connecting them form a communication route. A source node may be connected to a destination node by multiple routes, as presented in Fig. [2.16](#page28). Choosing the right route for message transportation is very important in point-to-point networks. These networks are suitable for delivering differentiated content based on various requests. | Trái ngược với mạng quảng bá, mạng điểm-điểm sử dụng nhiều kết nối để liên kết các cặp thiết bị riêng lẻ. Một thông điệp truyền từ nguồn đến đích bằng cách đi qua nhiều thiết bị được kết nối với nhau. Tất cả các thiết bị trung gian này và các liên kết kết nối chúng tạo thành một tuyến liên lạc. Một nút nguồn có thể được kết nối với một nút đích bằng nhiều tuyến, như được trình bày trong Hình. [2.16] (# trang28). Việc chọn đúng tuyến đường để vận chuyển tin nhắn là rất quan trọng trong các mạng điểm - điểm. Các mạng này phù hợp để cung cấp nội dung khác biệt dựa trên các yêu cầu khác nhau. |
 | However, potentially the most important criterion for classifying networks is their scale. In general, the network scale dictates the transmission technology used and often the corresponding communication protocols. | Tuy nhiên, tiêu chí quan trọng nhất để phân loại mạng là quy mô của chúng. Nói chung, quy mô mạng quyết định công nghệ truyền dẫn được sử dụng và thường là các giao thức truyền thông tương ứng. |
 | Based on their scale, networks can be classified as personal area networks, local area networks, metropolitan area networks, wide area networks, and the Internet. Next these network categories are discussed in detail. | Dựa trên quy mô của chúng, các mạng có thể được phân loại thành mạng khu vực cá nhân, mạng cục bộ, mạng khu vực đô thị, mạng diện rộng và Internet. Tiếp theo, các danh mục mạng này sẽ được thảo luận chi tiết. |
 
-![image-20200904092122960](/home/quangg/.config/Typora/typora-user-images/image-20200904092122960.png)![image-20200904092137327](/home/quangg/.config/Typora/typora-user-images/image-20200904092137327.png)
+![image-20200904092122960](images/image-20200904092122960.png)![image-20200904092137327](images/image-20200904092137327.png)
 
 ***2.4.1 Personal Area Networks***
 
@@ -187,7 +187,7 @@ IEEE 802.15.7 (2011) nhắm mục tiêu tiêu chuẩn hóa truyền thông quang
 | Figure [2.18 ](#page30)illustrates three typical LAN topologies. | Hình 2.18 minh họa ba cấu trúc liên kết mạng LAN điển hình.  |
 | Wireless Local Area Networks (WLANs) are increasingly popular, mostly due to the reduced cost of deployment and maintenance and their support for mobility. | Mạng cục bộ không dây (WLAN) ngày càng phổ biến, chủ yếu là do chi phí triển khai và bảo trì giảm và hỗ trợ tính di động của chúng. |
 
-![image-20200904235239768](/home/quangg/.config/Typora/typora-user-images/image-20200904235239768.png)
+![image-20200904235239768](images/image-20200904235239768.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -200,9 +200,9 @@ IEEE 802.15.7 (2011) nhắm mục tiêu tiêu chuẩn hóa truyền thông quang
 
 ***2.4.3 Metropolitan Area Networks***
 
-![image-20200905001524081](/home/quangg/.config/Typora/typora-user-images/image-20200905001524081.png)
+![image-20200905001524081](images/image-20200905001524081.png)
 
-![image-20200905001954475](/home/quangg/.config/Typora/typora-user-images/image-20200905001954475.png)
+![image-20200905001954475](images/image-20200905001954475.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -211,7 +211,7 @@ IEEE 802.15.7 (2011) nhắm mục tiêu tiêu chuẩn hóa truyền thông quang
 
 ***2.4.4 Wide Area Networks***
 
-![image-20200905002404850](/home/quangg/.config/Typora/typora-user-images/image-20200905002404850.png)
+![image-20200905002404850](images/image-20200905002404850.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -222,17 +222,17 @@ IEEE 802.15.7 (2011) nhắm mục tiêu tiêu chuẩn hóa truyền thông quang
 
 ***2.4.5 The Internet***
 
-![image-20200905002432589](/home/quangg/.config/Typora/typora-user-images/image-20200905002432589.png)
+![image-20200905002432589](images/image-20200905002432589.png)
 
 
 
-![image-20200905002446906](/home/quangg/.config/Typora/typora-user-images/image-20200905002446906.png)
+![image-20200905002446906](images/image-20200905002446906.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | The Internet can be best described as a network of networks. The Internet is not a single network, but instead a collection of a vast diversity of networks in terms of topologies and communication technologies which use, however, a common set of protocols to offer certain services.<br/><br/>Figure 2.21 schematically presents an overview of the Internet structure. As it can be seen in the figure, networks such as LANs owned by universities or small communities, regional Internet Service Provider (ISP) distribution networks, cel-lular networks, offering also data services, can be interconnected via backbones allowing for the creation of a global inter-network.<br/><br/>To describe how user hosts are interconnected and are allowed to communicate over the Internet, we will start from the client location. The client PC or home LAN router will be connected to the ISP modem/router which is designed to interconnect the user’s LAN with the ISP Point of Presence (PoP) over the telephone lines or cable network. At the PoP level, the signals originating at the home are sent to the ISP’s regional network.<br/><br/>Often, the local telecommunication company or the cable TV operator is also the ISP, so the telephone or cable networks and ISP regional networks are overlapping.<br/><br/>Except for the cable and telephone lines, home users my be offered access to the ISP core network using fiber or wireless links such as WiMAX or cellular.<br/><br/>The ISP’s regional network consists of interconnected routers and links spread across the area served the ISP. The ISP regional network is further connected to the backbone network owned by a backbone operator. Backbone operators are compa-nies owning and operating large international networks consisting of thousands of routers interconnected by high-bandwidth fiber optical links. These backbone net-works can transport huge amounts of traffic and usually link countries and even continents.<br/><br/>The end user usually does not get direct access to a backbone. The ISP regional networks or distribution networks are connected to the backbones. However, large corporations may be connected directly to the backbone, especially those operating high capacity server farms capable of handling millions of service requests and high amount of data traffic.<br/><br/>Various backbones exist, interconnecting all regions of the world, and being oper-ated by various companies. In order to reach a global coverage, all these backbones are interconnect at Network Access Points (NAP). These NAPs basically consist of a high speed LAN interconnecting routers corresponding to different backbones.<br/><br/>Moreover, NAPs are not the only technique to interconnect backbones. Private peering is a well known technique where various routers belonging to distinct back-bones have direct links between them allowing data packets to be exchanged be-tween distinct backbones.<br/>Figure 2.22 describes how data is exchanged between two hosts over the Internet. As it can be observed in the figure, if two hosts communicate and are connected to the same ISP regional network then the traffic is routed within the ISP network only.<br/><br/>If, for example, a host accesses a service (e.g., a website) located on a server farm, the traffic will be routed from the ISP’s network to the corresponding backbone and then through the farm’s local network to the destination server.<br/><br/>If two hosts are connected to distinct ISP networks which are further connected to distinct backbones, the data packets will travel from the ISP regional network to the backbone, and then over the NAP to the other backbone and further to the destination ISP’s regional network. | Internet có thể được mô tả tốt nhất là một mạng lưới các mạng. Internet không phải là một mạng đơn lẻ, mà thay vào đó là một tập hợp nhiều mạng đa dạng về cấu trúc liên kết và công nghệ truyền thông, tuy nhiên, sử dụng một tập hợp các giao thức chung để cung cấp một số dịch vụ nhất định.<br/><br/>Hình 2.21 trình bày một cách sơ đồ tổng quan về cấu trúc Internet. Như có thể thấy trong hình, các mạng như mạng LAN thuộc sở hữu của các trường đại học hoặc cộng đồng nhỏ, mạng phân phối của Nhà cung cấp dịch vụ Internet (ISP) khu vực, mạng cel-lular, cung cấp các dịch vụ dữ liệu, có thể được kết nối với nhau thông qua xương sống cho phép tạo ra một mạng liên kết toàn cầu.<br/><br/>Để mô tả cách các máy chủ của người dùng được kết nối với nhau và được phép giao tiếp qua Internet, chúng tôi sẽ bắt đầu từ vị trí máy khách. Máy tính khách hoặc bộ định tuyến mạng LAN gia đình sẽ được kết nối với modem / bộ định tuyến ISP được thiết kế để kết nối mạng LAN của người dùng với Điểm hiện diện ISP (PoP) qua đường dây điện thoại hoặc mạng cáp. Ở cấp độ PoP, các tín hiệu bắt nguồn từ nhà được gửi đến mạng khu vực của ISP.<br/><br/>Thông thường, công ty viễn thông địa phương hoặc nhà điều hành truyền hình cáp cũng là ISP, do đó, mạng điện thoại hoặc mạng cáp và mạng khu vực ISP bị chồng chéo.<br/><br/>Ngoại trừ đường dây cáp và điện thoại, người dùng gia đình của tôi được cung cấp quyền truy cập vào mạng lõi ISP bằng các liên kết cáp quang hoặc không dây như WiMAX hoặc di động.<br/><br/>Mạng khu vực của ISP bao gồm các bộ định tuyến được kết nối với nhau và các liên kết trải rộng trong khu vực được phục vụ bởi ISP. Mạng khu vực ISP được kết nối sâu hơn với mạng đường trục do một nhà khai thác đường trục sở hữu. Các nhà khai thác đường trục là các compa sở hữu và vận hành các mạng quốc tế lớn bao gồm hàng nghìn bộ định tuyến được kết nối với nhau bằng các liên kết quang băng thông cao. Các công trình mạng xương sống này có thể vận chuyển một lượng lớn lưu lượng truy cập và thường liên kết các quốc gia và thậm chí các lục địa.<br/><br/>Người dùng cuối thường không có quyền truy cập trực tiếp vào đường trục. Các mạng khu vực hoặc mạng phân phối của ISP được kết nối với các mạng xương sống. Tuy nhiên, các tập đoàn lớn có thể được kết nối trực tiếp với đường trục, đặc biệt là những công ty vận hành các trang trại máy chủ công suất lớn có khả năng xử lý hàng triệu yêu cầu dịch vụ và lưu lượng dữ liệu cao.<br/><br/>Có nhiều xương sống khác nhau, kết nối tất cả các khu vực trên thế giới, và được giám sát bởi các công ty khác nhau. Để đạt được phạm vi phủ sóng toàn cầu, tất cả các xương sống này được kết nối với nhau tại Điểm truy cập mạng (NAP). Các NAP này về cơ bản bao gồm một bộ định tuyến kết nối mạng LAN tốc độ cao tương ứng với các xương sống khác nhau.<br/><br/>Hơn nữa, NAP không phải là kỹ thuật duy nhất để kết nối các xương sống với nhau. Ngang hàng riêng là một kỹ thuật nổi tiếng trong đó các bộ định tuyến khác nhau thuộc các xương sống riêng biệt có liên kết trực tiếp giữa chúng cho phép các gói dữ liệu được trao đổi giữa các xương sống riêng biệt.<br/>Hình 2.22 mô tả cách dữ liệu được trao đổi giữa hai máy chủ qua Internet. Như có thể quan sát trong hình, nếu hai máy chủ giao tiếp và được kết nối với cùng một mạng khu vực ISP thì lưu lượng chỉ được định tuyến trong mạng ISP.<br/><br/>Ví dụ: nếu một máy chủ truy cập vào một dịch vụ (ví dụ: một trang web) nằm trên một trang máy chủ, lưu lượng truy cập sẽ được định tuyến từ mạng của ISP đến đường trục tương ứng và sau đó qua mạng cục bộ của trang đó đến máy chủ đích.<br/><br/>Nếu hai máy chủ được kết nối với các mạng ISP riêng biệt được kết nối xa hơn với các mạng nền riêng biệt, các gói dữ liệu sẽ đi từ mạng khu vực ISP đến mạng trục, sau đó qua NAP đến đường trục khác và xa hơn đến mạng khu vực của ISP đích. |
 
-### **2.5 Conclusions**
+#### **2.5 Conclusions**
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
