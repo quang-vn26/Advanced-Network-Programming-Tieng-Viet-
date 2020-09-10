@@ -20,9 +20,9 @@
 
 ### 4.2 Multi-programming and Multi-tasking
 
-![image-20200907214438333](/home/quangg/.config/Typora/typora-user-images/image-20200907214438333.png)
+![image-20200907214438333](images/image-20200907214438333.png)
 
-![image-20200907214455499](/home/quangg/.config/Typora/typora-user-images/image-20200907214455499.png)
+![image-20200907214455499](images/image-20200907214455499.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -32,9 +32,9 @@
 
 ### 4.3 Processes
 
-![image-20200907214518448](/home/quangg/.config/Typora/typora-user-images/image-20200907214518448.png)
+![image-20200907214518448](images/image-20200907214518448.png)
 
-![image-20200907214646950](/home/quangg/.config/Typora/typora-user-images/image-20200907214646950.png)
+![image-20200907214646950](images/image-20200907214646950.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -52,7 +52,7 @@
 
 ### 4.5 Multi-threading
 
-![image-20200907214702829](/home/quangg/.config/Typora/typora-user-images/image-20200907214702829.png)
+![image-20200907214702829](images/image-20200907214702829.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -70,11 +70,11 @@
 
 #### 4.6.1 Extending Thread Class
 
-![image-20200909074236325](/home/quangg/.config/Typora/typora-user-images/image-20200909074236325.png)
+![image-20200909074236325](images/image-20200909074236325.png)
 
-![image-20200909074251243](/home/quangg/.config/Typora/typora-user-images/image-20200909074251243.png)
+![image-20200909074251243](images/image-20200909074251243.png)
 
-![image-20200909074303922](/home/quangg/.config/Typora/typora-user-images/image-20200909074303922.png)
+![image-20200909074303922](images/image-20200909074303922.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -86,19 +86,19 @@
 
 
 
-![image-20200907214947506](/home/quangg/.config/Typora/typora-user-images/image-20200907214947506.png)
+![image-20200907214947506](images/image-20200907214947506.png)
 
-![image-20200909074354041](/home/quangg/.config/Typora/typora-user-images/image-20200909074354041.png)
+![image-20200909074354041](images/image-20200909074354041.png)
 
-![image-20200909074417086](/home/quangg/.config/Typora/typora-user-images/image-20200909074417086.png)
+![image-20200909074417086](images/image-20200909074417086.png)
 
-![image-20200909074430812](/home/quangg/.config/Typora/typora-user-images/image-20200909074430812.png)
+![image-20200909074430812](images/image-20200909074430812.png)
 
-![image-20200909074443835](/home/quangg/.config/Typora/typora-user-images/image-20200909074443835.png)
+![image-20200909074443835](images/image-20200909074443835.png)
 
-![image-20200909074516037](/home/quangg/.config/Typora/typora-user-images/image-20200909074516037.png)
+![image-20200909074516037](images/image-20200909074516037.png)
 
-![image-20200909074535629](/home/quangg/.config/Typora/typora-user-images/image-20200909074535629.png)
+![image-20200909074535629](images/image-20200909074535629.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -110,7 +110,7 @@
 
 #### 4.7.1 Inter-thread Communication
 
-![image-20200907215008044](/home/quangg/.config/Typora/typora-user-images/image-20200907215008044.png)
+![image-20200907215008044](images/image-20200907215008044.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -369,7 +369,7 @@ System.out.println( "successful completion" );
 
 ### 4.8 Conclusions
 
-![image-20200907215036788](/home/quangg/.config/Typora/typora-user-images/image-20200907215036788.png)
+![image-20200907215036788](images/image-20200907215036788.png)
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
